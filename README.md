@@ -20,4 +20,4 @@ This project will explore the following questions:
 ## Summary and Conclusion
 * There is an overall upward trend for the world population, the income per person and the life expectancy.
 * The world population is increasing rapidly is because of the increasing number of adults. The number of children remained almost constant for the last 50 years and will stay the same in the future.
-* Income per person and life expectancy are correclated. People live longer in richer countries and the average length of life of people in poorer countries is relatively shorter. Nevertheless, there is still a huge difference in life expectancy between countries on the same income level.
+* Income per person and life expectancy are correlated. People live longer in richer countries and the average length of life of people in poorer countries is relatively shorter. Nevertheless, there is still a huge difference in life expectancy between countries on the same income level.
